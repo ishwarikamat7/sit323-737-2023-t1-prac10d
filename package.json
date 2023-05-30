@@ -1,7 +1,7 @@
 {
-    "name": "docker_web_app",
+    "name": "ci_cd_app",
     "version": "1.0.0",
-    "description": "Node.js on Docker",
+    "description": "CI/CD Implementation",
     "author": "Ishwari Kamat",
     "main": "server.js",
     "scripts": {
